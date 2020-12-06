@@ -6,7 +6,8 @@ body{
 }
 
 header{
-    background-color: peachpuff;
+    background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-angle-view-of-cherries-on-pink-table-royalty-free-image-1584714228.jpg);
+    background-size: cover;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
