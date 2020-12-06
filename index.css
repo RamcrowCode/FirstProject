@@ -13,6 +13,7 @@ header{
     padding-bottom: 50px;
 }
 header h1{
+   text-shadow: 0 0 15px white;
     color: crimson;
     font-size: 50px;
 }
